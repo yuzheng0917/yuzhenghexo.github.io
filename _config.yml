@@ -104,4 +104,4 @@ theme: butterfly
 deploy:
   type: git
   repo: git@github.com:yuzheng0917/yuzhenghexo.github.io.git
-  branch: main
+  branch: gh-pg
