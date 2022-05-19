@@ -1,10 +1,11 @@
 # dependencies
-/node_modules
+node_modules/
 /npm-debug.log*
 /yarn-error.log
 /yarn.lock
 /package-lock.json
-/public
+public/
+db.json
 
 # production
 /dist
